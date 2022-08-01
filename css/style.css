@@ -141,7 +141,7 @@
 .years-font{
     font-size: 25px;
 }
-@media screen and (max-width: 447px) {
+@media screen and (max-width: 347px) {
    
     .margin-left{
         margin-left: 0px;
