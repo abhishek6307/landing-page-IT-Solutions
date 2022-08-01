@@ -198,4 +198,33 @@
     .circles{
         flex-direction: column;
     }
+    .box-container{
+        display: block;
+    }
+    #circles-2{
+        top: -259px;
+        right: -42px;
+        height: 270px;
+        width: 270px;
+    }
+    #circles-1{
+    
+    height: 270px;
+    width: 270px;
+    }
+    #circles-3 {
+        height: 35px;
+        width: 35px;
+        top: -543px;
+        right: -304px;
+
+    }
+    
+
+#circles-4 {
+    height: 20px;
+    width: 20px;
+    top: -496px;
+    right: -358px;
+}
 }
